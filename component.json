@@ -1,0 +1,14 @@
+{
+  "name": "textarea-placeholder",
+  "repo": "component-has/textarea-placeholder",
+  "description": "`true` if the browser supports placeholder for the textarea element.",
+  "version": "0.0.1",
+  "keywords": ["has", "textarea", "placeholder", "?"],
+  "dependencies": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "development": {
+    "visionmedia/mocha": "*"
+  }
+}
